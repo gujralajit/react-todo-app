@@ -8,8 +8,7 @@ This is a simple web project built with React, TypeScript, and Tailwind CSS. The
 
 - **Add Todo Items**: Users can add new tasks to the todo list.
 - **Delete Todo Items**: Users can remove tasks from the list.
-- **Visual Styling**: The app is visually appealing with rounded elements, color-coded buttons, and centered content.
-
+- **Update Todo Items**: Users can update task descriptions from the list.
 ## Getting Started
 
 To run this project locally, follow these steps:
