@@ -1,4 +1,4 @@
-import React, { ButtonHTMLAttributes, ChangeEvent, ChangeEventHandler, EventHandler, MouseEventHandler, useEffect } from 'react';
+import React, { ChangeEvent, ChangeEventHandler, MouseEventHandler, useEffect } from 'react';
 import './App.css';
 
 var CustomMap: { [key: string]: any } = {};
